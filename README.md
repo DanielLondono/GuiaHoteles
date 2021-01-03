@@ -1,1 +1,1 @@
-Inicio del proyecto de guia de hotele
+Inicio del proyecto de guia de hoteles
